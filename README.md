@@ -9,4 +9,6 @@ Ce projet vise à analyser l'attrition des clients de la banque CapitalFlow afin
 
 <h2>Présentation du projet</h2>
 
-- [Customer_Churn_Records.csv](https://github.com/KatiaG-data/Airbnb-Project/blob/main/AB_NYC_2019.csv)
+- [Customer_Churn_Records.csv](https://github.com/KatiaG-data/CapitalFlow-Project/blob/main/Customer-Churn-Records.csv) : Document comprenant les données brutes des clients
+issu du site Kaagle (Capital Flow Data - Kaagle)
+- 
