@@ -37,7 +37,7 @@ Les principales variables utilisées sont :
 - Exited : Variable cible (1 = Client parti, 0 = Client resté)
 
 <h2>Aperçu du dashboard interactif crée sur Power BI:</h2>
-
+<img src="https://github.com/KatiaG-data/CapitalFlow-Project/blob/main/Screenshot%202025-03-19%20163720.png>
 
 
 <h2> Résultats Clés</h2>
