@@ -10,5 +10,8 @@ Ce projet vise à analyser l'attrition des clients de la banque CapitalFlow afin
 <h2>Présentation du projet</h2>
 
 - [Customer_Churn_Records.csv](https://github.com/KatiaG-data/CapitalFlow-Project/blob/main/Customer-Churn-Records.csv) : Document comprenant les données brutes des clients
-issu du site Kaagle (Capital Flow Data - Kaagle)
-- 
+issu du site Kaagle [Capital Flow Data - Kaagle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+- [Customer-Churn-Records-clean.xlsx](https://github.com/KatiaG-data/CapitalFlow-Project/blob/main/Customer-Churn-Records-clean.xlsx) : Données nettoyées et prêtes pour l'analyse
+- [Dasboard CapitalFlow.pbix](https://github.com/KatiaG-data/CapitalFlow-Project/blob/main/Dashboard%20CapitalFlow.pbix) : Tableau de bord Power BI avec visualisations interactives
+
+
