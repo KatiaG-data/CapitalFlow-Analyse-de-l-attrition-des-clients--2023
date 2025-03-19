@@ -38,9 +38,13 @@ Les principales variables utilisées sont :
 
 <h2> Résultats Clés</h2>
 
-Le churn est fortement corrélé avec l'ancienneté, le solde du compte et l'activité du client.
-Les clients avec un faible CreditScore et peu de produits bancaires sont plus susceptibles de partir.
-Une segmentation client a permis d’identifier des groupes à risque sur lesquels CapitalFlow peut agir.
 
+Cette analyse met en évidence plusieurs facteurs déterminants. Tout d’abord, <b>l’ancienneté et l’activité du client</b> jouent un rôle clé. Les clients ayant une faible ancienneté, soit moins de trois ans, affichent un taux d’attrition nettement plus élevé, suggérant une difficulté à les fidéliser à long terme. En outre, l’inactivité est un facteur critique : les clients peu actifs sont <b>2,5 fois plus susceptibles</b> de quitter la banque, indiquant un manque d’engagement vis-à-vis des services bancaires proposés.
+
+Par ailleurs, <b>le score de crédit et le solde du compte</b> influencent fortement la rétention. Un <b>CreditScore inférieur à 600</b> augmente nettement la probabilité d’attrition, illustrant une potentielle corrélation entre le risque financier perçu et la fidélité des clients. Aussi, les clients ayant un <b>solde inférieur à la médiane</b> sont <b>40 % plus enclins</b> à fermer leur compte, soulignant l’importance des offres adaptées aux clients à faible revenu pour améliorer la rétention.
+
+Le <b>nombre de produits bancaires souscrits</b> est également un indicateur clé. Les clients possédant un seul produit bancaire montrent un taux d’attrition davantage plus élevé que ceux qui en détiennent plusieurs, ce qui démontre l’impact de la diversification des services sur la fidélisation. À l’inverse, les clients ayant <b>plus de trois produits bancaires</b> restent en majorité fidèles, suggérant qu’une offre multi-services renforce l’attachement à la banque.
+
+Enfin, le <b>profil démographique</b> influence également la perte de clients. Les jeunes adultes de <b>moins de 30 ans</b> présentent une plus grande volatilité, probablement en raison de leurs attentes évolutives et de leur propension à tester plusieurs services bancaires. Par ailleurs, une différence est observée entre les genres, <b>les femmes ayant un taux d’attrition légèrement plus élevé</b>, ce qui pourrait être lié à des différences de besoins ou de préférences en matière de services financiers. 
 
 
