@@ -36,6 +36,10 @@ Les principales variables utilisées sont :
 - IsActiveMember : Activité du client (1 = Actif, 0 = Inactif)
 - Exited : Variable cible (1 = Client parti, 0 = Client resté)
 
+<h2>Aperçu du dashboard interactif crée sur Power BI:</h2>
+
+
+
 <h2> Résultats Clés</h2>
 
 
