@@ -19,7 +19,7 @@ issu du site Kaagle [Capital Flow Data - Kaagle](https://www.kaggle.com/datasets
 <h2> Outils utilisés</h2>
 
 - **Power BI** pour la création de visualisations interactives.
-- **Excel** pour le nettoyage et la préparation des données.
+- **Excel & Power Query** pour le nettoyage et la préparation des données.
 
 <h2> Structure des Données</h2>
 
