@@ -17,12 +17,6 @@ issu du site Kaagle [Capital Flow Data - Kaagle](https://www.kaggle.com/datasets
 - [Dasboard CapitalFlow.pbix](https://github.com/KatiaG-data/CapitalFlow-Project/blob/main/Dashboard%20CapitalFlow.pbix) : Tableau de bord Power BI avec visualisations interactives
 
 
-
-<h2> Outils utilisés</h2>
-
-- **Power BI** pour la création de visualisations interactives.
-- **Excel & Power Query** pour le nettoyage et la préparation des données.
-
 <h2> Structure des Données</h2>
 
 Les principales variables utilisées sont :
@@ -37,6 +31,14 @@ Les principales variables utilisées sont :
 - HasCreditCard : Possession d'une carte de crédit (1 = Oui, 0 = Non)
 - IsActiveMember : Activité du client (1 = Actif, 0 = Inactif)
 - Exited : Variable cible (1 = Client parti, 0 = Client resté)
+
+
+
+<h2> Outils utilisés</h2>
+
+- **Power BI** pour la création de visualisations interactives.
+- **Excel & Power Query** pour le nettoyage et la préparation des données.
+
 
 <h2>Aperçu du dashboard interactif crée sur Power BI:</h2>
 
