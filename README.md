@@ -3,9 +3,7 @@
 
 <h2>Présentation du projet</h2>
 
-Ce projet vise à analyser l'attrition des clients de la banque CapitalFlow afin d'identifier les facteurs influençant le départ des clients et proposer des actions pour améliorer la fidélisation. L'analyse repose sur des données clients comprenant des informations démographiques, financières et comportementales. Un dashboard interactif Power BI est également disponible pour visualiser les insights clés.
-
-À la demande conjointe des équipes Marketing et du Head of Customer Relationship Management (CRM), j'ai mené une analyse afin de mieux comprendre les facteurs qui influencent le départ des clients dans le but de mettre en place des actions ciblées limitant ce phénomène.
+Dans un contexte de forte concurrence sur le marché bancaire, la fidélisation des clients est un enjeu stratégique majeur. CapitalFlow Bank, établissement bancaire de taille intermédiaire, observe une augmentation progressive du taux d’attrition de ses clients au cours des dernières années. À la demande conjointe des équipes Marketing et du Head of Customer Relationship Management (CRM), j'ai mené une analyse afin de mieux comprendre les facteurs qui influencent le départ des clients dans le but de mettre en place des actions ciblées limitant ce phénomène.
 
 
 
