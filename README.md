@@ -3,7 +3,7 @@
 
 <h2>Présentation du projet</h2>
 
-Dans un contexte de forte concurrence sur le marché bancaire, la fidélisation des clients est un enjeu stratégique majeur. CapitalFlow Bank, établissement bancaire, observe une augmentation progressive du taux d’attrition de ses clients au cours des dernières années.
+Dans un contexte de forte concurrence sur le marché bancaire, la fidélisation des clients est un enjeu stratégique majeur. CapitalFlow Bank, établissement bancaire, observe une augmentation progressive du taux d’attrition de ses clients au cours des dernières années en France, en Espagne mais aussi en Allemagne.
 
 À la demande conjointe des équipes Marketing et du Head of Customer Relationship Management (CRM), j'ai mené une analyse afin de mieux comprendre les facteurs qui influencent le départ des clients dans le but de mettre en place des actions ciblées limitant ce phénomène. L’objectif est d’identifier les variables clés liées à la perte de clients, à partir de données démographiques, financières et comportementales.
 
