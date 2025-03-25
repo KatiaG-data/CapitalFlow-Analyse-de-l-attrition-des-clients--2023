@@ -1,4 +1,4 @@
-<h1> Analyse de l'attrition des clients chez CapitalFlow - 2023 </h1>
+<h1> Analyse de l'attrition client chez CapitalFlow - 2023 </h1>
 
 
 <h2>Présentation du projet</h2>
